@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[workspaceSlug]","\u002F[workspaceSlug]\u002F[projectSlug]","\u002F[workspaceSlug]\u002F[projectSlug]\u002F[docSlug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
